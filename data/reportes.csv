@@ -1,0 +1,2 @@
+total_moves,total_matches,valid_moves,invalid_moves,greedy,defensiva,ofensiva,aleatoria,x_moves,x_wins,x_losses,x_draws,x_greedy,x_defensiva,x_ofensiva,x_aleatoria,o_moves,o_wins,o_losses,o_draws,o_greedy,o_defensiva,o_ofensiva,o_aleatoria
+1535,154,1423,112,139,234,855,195,740,66,45,629,89,78,399,110,795,45,66,684,50,156,456,85

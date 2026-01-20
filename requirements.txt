@@ -1,0 +1,10 @@
+transformers 
+peft 
+accelerate
+torch
+accelerate
+datasets
+bitsandbytes
+tqdm
+scipy
+statsmodels
