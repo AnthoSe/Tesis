@@ -35,7 +35,7 @@ from peft import PeftModel
 # =========================
 
 # Clave de OpenRouter (poner la tuya o usar variable de entorno)
-OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "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")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
